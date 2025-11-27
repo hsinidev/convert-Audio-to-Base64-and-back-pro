@@ -4,7 +4,7 @@
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Base64.doodax.com-2ea44f)](https://Base64.doodax.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-2ea44f)](https://doodax.com/tools/convert-audio-to-base64/index.html)
 
 <p align="center">
   <strong>The ultimate client-side tool for encoding audio files to Base64 and decoding them back instantly.</strong>
